@@ -1,4 +1,4 @@
-🌐 Project Concept: ProofBridge
+# 🌐 Project Concept: ProofBridge
 
 Overview
 
@@ -11,7 +11,7 @@ ProofBridge ensures that only unique human users can generate and use these cred
 
 ⸻
 
-🔧 Technical Stack
+## 🔧 Technical Stack
 
 1. vlayer: Verifiable Data Extraction
 
@@ -36,14 +36,14 @@ Integrate the application as a Mini App within the World App to:
 
 ⸻
 
-🔐 Use Case Scenarios
+## 🔐 Use Case Scenarios
 	1.	Decentralized Reputation Systems: Users can prove their contributions or activities (e.g., GitHub commits, forum participation) through verified Web2 data, enhancing their reputation scores across multiple dApps.
 	2.	Cross-Chain Access Control: dApps can grant or restrict access to features based on verifiable credentials, ensuring that only users with specific qualifications or histories can participate.
 	3.	Sybil-Resistant Airdrops: Projects can distribute tokens to users who provide verifiable proof of unique human identity and specific Web2 activities, ensuring fair and targeted distributions.
 
 ⸻
 
-🛠️ Implementation Steps
+## 🛠️ Implementation Steps
 	1.	Frontend Development:
 	•	Design a user interface that allows users to connect their Web2 accounts (e.g., email, social media) and initiate the proof generation process.
 	•	Integrate World ID verification to authenticate users’ uniqueness.
@@ -57,7 +57,7 @@ Integrate the application as a Mini App within the World App to:
 
 ⸻
 
-🎯 Potential Impact
+## 🎯 Potential Impact
 
 By combining vlayer, LayerZero, and World Mini Apps, ProofBridge offers a robust solution for:
 	•	Enhancing trust in decentralized applications through verifiable credentials. ￼
